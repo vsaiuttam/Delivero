@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753754869378",
+    "project_id": "resturants-d825d",
+    "storage_bucket": "resturants-d825d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753754869378:android:3a6727d93dca942b2f2e9b",
+        "android_client_info": {
+          "package_name": "com.example.project_xi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753754869378-ikli5m862vo8dtmn0mgbfrccvdjlssmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9kV1fOTLjBc4dXL9O9insjGuXNu6Lni4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753754869378-ikli5m862vo8dtmn0mgbfrccvdjlssmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
